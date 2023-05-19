@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 375,
+    "height" : 633
+  }, {
+    "width" : 750,
+    "height" : 1266
+  }, {
+    "width" : 1500,
+    "height" : 2532
+  }, {
+    "width" : 3000,
+    "height" : 5063
+  }, {
+    "width" : 6000,
+    "height" : 10126
+  }, {
+    "width" : 12000,
+    "height" : 20251
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 12000,
+  "@id" : "https://retrogram.jezik.hr/gramatike/tadijanovic/iiif/119",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 20251
+}
